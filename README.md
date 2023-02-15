@@ -4,8 +4,8 @@ Let’s make simple Twitter. Users can post tweets and see everyone’s them. To
 [LIVE REPLIT DEPLOYMENT](https://daisy-twitterclone.daisyambani.repl.co/)
 
 # Screenshot:
- <img width="1373" alt="Screenshot 2022-03-28 at 4.05.38 PM" src="https://user-images.githubusercontent.com/100840176/160388567-82d164ac-8809-457a-965e-ac02dd913fdc.jpeg">
- 
+ ![Screenshot 2023-02-15 at 2 31 11 PM](https://user-images.githubusercontent.com/104530748/218981560-ec27f42f-ac49-46c4-a5d6-5a02208aabe2.png)
+
 # Technologies Used:
 * Html
 * Css
